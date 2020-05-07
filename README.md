@@ -1,1 +1,1 @@
-# IntervieqQuestions
+# InterviewQuestions
